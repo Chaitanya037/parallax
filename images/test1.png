@@ -1,4 +1,0 @@
-git add test1.png
-git commit -m 'add png file'
-git remote add origin https://cloud.githubusercontent.com/assets/12658608/9148977/b5005cc8-3db0-11e5-8769-b93cf1797389.jpg
-git push -u origin master
